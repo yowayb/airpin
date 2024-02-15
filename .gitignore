@@ -1,0 +1,6 @@
+.DS_Store
+airpin
+cmd/cmd
+*.log
+*.csv
+templates.json
